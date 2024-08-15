@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @pmantony
+- 👀 I’m interested in streamlit
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on data science
+- 📫 How to reach me 
+- 😄 Pronouns: he/him his
+- ⚡ Fun fact: Im addicted to learning new things.
